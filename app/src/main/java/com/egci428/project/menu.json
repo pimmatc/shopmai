@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "title": "Chocolate Cake",
+      "img1": "chocolate_cake_1.jpg",
+      "img2": "chocolate_cake_2.jpg",
+      "price": 60,
+      "description": "A single slice of our rich and moist chocolate fudge cake."
+    },
+    {
+      "id": 2,
+      "title": "Almond Croissant",
+      "img1": "almond_croissant_1.jpg",
+      "img2": "almond_croissant_2.jpg",
+      "price": 45,
+      "description": "A flaky croissant filled with almond paste and topped with sliced almonds."
+    },
+    {
+      "id": 3,
+      "title": "Mini Brownie",
+      "img1": "brownies_1.jpg",
+      "img2": "brownies_2.jpg",
+      "price": 30,
+      "description": "Fudgy mini brownies perfect for a quick chocolate fix."
+    },
+    {
+      "id": 4,
+      "title": "Shio Pan",
+      "img1": "shio_pan_1.jpg",
+      "img2": "shio_pan_2.jpg",
+      "price": 60,
+      "description": "A Japanese-style bread roll with a lightly salted buttery crust."
+    },
+    {
+      "id": 5,
+      "title": "Black Forest Cake",
+      "img1": "black_forest_cake_1.jpg",
+      "img2": "black_forest_cake_2.jpg",
+      "price": 70,
+      "description": "A decadent cake layered with chocolate sponge, whipped cream, and cherries."
+    },
+    {
+      "id": 6,
+      "title": "Strawberry Cheesecake",
+      "img1": "strawberry_cheesecake_1.jpg",
+      "img2": "strawberry_cheesecake_2.jpg",
+      "price": 60,
+      "description": "A creamy cheesecake topped with fresh strawberries and glaze."
+    },
+    {
+      "id": 7,
+      "title": "Lemon Drizzle Loaf",
+      "img1": "lemon_cake_1.jpg",
+      "img2": "lemon_cake_2.jpg",
+      "price": 80,
+      "description": "A moist lemon loaf with a tangy drizzle glaze."
+    },
+    {
+      "id": 8,
+      "title": "Strawberry Shortcake",
+      "img1": "strawberry_shortcake_1.jpg",
+      "img2": "strawberry_shortcake_2.jpg",
+      "price": 70,
+      "description": "A light and fluffy cake layered with cream and fresh strawberries."
+    },
+    {
+      "id": 9,
+      "title": "Pretzel",
+      "img1": "pretzel_1.jpg",
+      "img2": "pretzel_2.jpg",
+      "price": 50,
+      "description": "A soft and chewy pretzel with a lightly salted crust."
+    },
+    {
+      "id": 10,
+      "title": "Classic Doughnut",
+      "img1": "donut_1.jpg",
+      "img2": "donut_2.jpg",
+      "price": 50,
+      "description": "A fluffy and colorful glazed doughnut."
+    },
+    {
+      "id": 11,
+      "title": "Vanilla Cupcake",
+      "img1": "vanila_cupcake_1.jpg",
+      "img2": "vanila_cupcake_2.jpg",
+      "price": 45,
+      "description": "A soft vanilla cupcake topped with creamy vanilla frosting."
+    },
+    {
+      "id": 12,
+      "title": "Cinnamon Roll",
+      "img1": "cinnamon_roll_1.jpg",
+      "img2": "cinnamon_roll_2.jpg",
+      "price": 90,
+      "description": "A soft cinnamon roll topped with cream cheese frosting."
+    },
+    {
+      "id": 13,
+      "title": "Mini Eclairs",
+      "img1": "eclairs_1.jpg",
+      "img2": "eclairs_2.jpg",
+      "price": 60,
+      "description": "A pack of 2 mini eclairs filled with rich custard and topped with chocolate glaze."
+    },
+    {
+      "id": 14,
+      "title": "Sugar Cookies",
+      "img1": "xmas_cookies_1.jpg",
+      "img2": "xmas_cookies_2.jpg",
+      "price": 50,
+      "description": "A pack of 5 sweet sugar cookies with a sprinkle of decorative sugar."
+    }
+  ]
+  
